@@ -19,9 +19,16 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
-      ],
-      "scripts": [],
+        "styles.css"],
+      "scripts": [
+        "assets/js/main.js",
+        "assets/js/jquery.1.11.1.js",
+        "assets/js/jquery.isotope.js",
+        "assets/js/bootstrap.js",
+        "assets/js/bootstrap.min.js",
+        "assets/js/jqBootstrapValidation.js",
+        "assets/js/nivo-lightbox.js",
+        "assets/js/SmoothScroll.js"],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
