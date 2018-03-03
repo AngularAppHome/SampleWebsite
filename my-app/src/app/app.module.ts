@@ -5,13 +5,13 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
-import { AkashComponent } from './akash/akash.component';
+import { SurajComponent } from './suraj/suraj.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    AkashComponent
+    SurajComponent
   ],
   imports: [
     BrowserModule,
